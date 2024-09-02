@@ -11,9 +11,21 @@ Hi, I'm Vootla Pushpak, a Data engineer with 2 years of experience in building d
 * **Big Data Technologies**: Apache Spark, HDFS, Delta Lake
 
 ## Experience 👨‍💻
-### Data Engineer, Ensono (2 years)
-* Designed and implemented data pipelines for real-time analytics
-* Collaborated with cross-functional teams to drive business insights
+### Data Engineer, Ensono (Oct 2022 - Current)
+
+* Retail Data Analytics Platform Development: Played a key role in developing a robust retail data analytics platform on Azure, significantly enhancing the client’s ability to track sales performance and analyze customer behavior.
+
+* Data Quality Assurance: Conducted thorough quality checks on data ingested into Azure Data Lake Storage (ADLS) Gen2, ensuring data integrity and preventing duplication before processing.
+
+* Automated ETL Pipelines: Designed and implemented efficient ETL pipelines using Azure Data Factory, automating the processing of over 1 million records daily and improving data processing efficiency by 30%.
+
+* Azure Databricks & Spark Optimization: Utilized Azure Databricks to process large-scale retail data, applying Spark optimizations that improved performance. This led to a 25% increase in sales forecast accuracy and a 15% reduction in inventory costs through advanced data modeling and analysis.
+
+* Data Warehouse Optimization: Optimized data warehouse performance on Azure Synapse Analytics, reducing query response times by 40% and enhancing overall data retrieval speeds.
+
+* Power BI Integration: Delivered high-quality, transformed data to analysts for Power BI dashboard creation, resulting in a 20% increase in stakeholder engagement and quicker decision-making processes.
+
+* Cross-Team Collaboration: Established an effective feedback loop with data analysts, enhancing collaboration across teams and resolving 95% of workflow bottlenecks.
 
 ## Projects 🧑‍🔧
 * [Project 1: Data Processing for Retail Company](https://github.com/PushpakVootla21/Retail_Data_Engineering_Project)
