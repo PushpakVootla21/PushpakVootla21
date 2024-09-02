@@ -1,5 +1,5 @@
 # About Me 👋
-Hi, I'm Vootla Pushpak, a Data engineer with 2 years of experience in building data pipelines & working with difeferent data systems . I currently work at Ensono, where I design and implement data pipelines to drive business insights.
+Hi, I'm Vootla Pushpak, a Data engineer with 2 years of experience in building data pipelines & working with different data systems . I currently work at Ensono, where I design and implement data pipelines to drive business insights.
 
 ## Interests 🔭
 * **Data Engineering**: I'm fascinated by the challenges of handling large-scale data and building systems that can process, store, and analyze it efficiently.
