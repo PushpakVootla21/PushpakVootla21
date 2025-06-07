@@ -29,6 +29,7 @@ Hi, I'm Vootla Pushpak, a Data engineer with 2 years of experience in building d
 
 ## Projects 🧑‍🔧
 * [Project 1: Data Processing for Retail Company](https://github.com/PushpakVootla21/Retail_Data_Engineering_Project)
+* [Project 2: Metadata-driven Data Migration Pipeline][GitHub Repository](https://github.com/PushpakVootla21/Metadata-driven-data-migration-pipeline-using-ADF)
 
 ## Certifications 👨‍🎓
 
