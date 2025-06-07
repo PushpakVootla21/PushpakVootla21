@@ -27,9 +27,9 @@ Hi, I'm Vootla Pushpak, a Data engineer with 2 years of experience in building d
 
 * Cross-Team Collaboration: Established an effective feedback loop with data analysts, enhancing collaboration across teams and resolving 95% of workflow bottlenecks.
 
-## Projects 🧑‍🔧
-* [Project 1: Data Processing for Retail Company](https://github.com/PushpakVootla21/Retail_Data_Engineering_Project)
-* [Project 2: Metadata-driven Data Migration Pipeline][GitHub Repository](https://github.com/PushpakVootla21/Metadata-driven-data-migration-pipeline-using-ADF)
+## 🧑‍🔧 Projects
+- [Project 1: Data Processing for Retail Company](https://github.com/PushpakVootla21/Retail_Data_Engineering_Project)
+- [Project 2: Metadata-driven Data Migration Pipeline](https://github.com/PushpakVootla21/Metadata-driven-data-migration-pipeline-using-ADF)
 
 ## Certifications 👨‍🎓
 
