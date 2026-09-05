@@ -70,6 +70,7 @@ I'm a **Data Engineer** with 2+ years of experience designing and building large
 ### 🚀 Featured Projects
 
 - **[Data Engineering Portfolio](https://pushpakvootla.cloud/)** — recruiter-facing site with 5 Azure case studies across ADF, Databricks, Microsoft Fabric, PySpark & Delta Lake
+- **[Quarterly Policy Data Delivery Platform](https://pushpakvootla.cloud/projects/quarterly-policy-data-delivery-platform)** — metadata-driven ADF orchestration + Databricks processing delivering validated Raw Delta tables for downstream Data Science workloads *(client project — code not public, see case study)*
 - **[Retail Data Engineering Project](https://github.com/PushpakVootla21/Retail_Data_Engineering_Project)** — end-to-end data processing pipeline for retail data
 - **[Metadata-driven Data Migration Pipeline](https://github.com/PushpakVootla21/Metadata-driven-data-migration-pipeline-using-ADF)** — parameterized ADF pipeline for on-prem to Azure SQL migration
 
