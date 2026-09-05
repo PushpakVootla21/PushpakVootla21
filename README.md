@@ -72,7 +72,7 @@ I'm a **Data Engineer** with 2+ years of experience designing and building large
 - **[Quarterly Policy Data Delivery Platform](https://pushpakvootla.cloud/projects/quarterly-policy-data-delivery-platform)** — metadata-driven ADF orchestration with Databricks processing into validated Delta tables
 - **[Retail Data Engineering Project](https://github.com/PushpakVootla21/Retail_Data_Engineering_Project)** — end-to-end data processing pipeline for retail data
 - **[Metadata-driven Data Migration Pipeline](https://github.com/PushpakVootla21/Metadata-driven-data-migration-pipeline-using-ADF)** — parameterized ADF pipeline for on-prem to Azure SQL migration
-- **[Validation-First Fabric Lakehouse Ingestion](https://github.com/PushpakVootla21/fabric-case-studies)** — Microsoft Fabric pipeline with schema validation, quarantine handling, and Lakehouse upsert
+- **[Validation-First Fabric Lakehouse Ingestion — Grandeur Properties](https://github.com/PushpakVootla21/fabric-case-studies/tree/main/case-study-1-grandeur-properties)** — Microsoft Fabric pipeline with schema validation, quarantine handling, and Lakehouse upsert
 - **[Spotify ETL Project](https://github.com/PushpakVootla21/spotify-etl-project)** — serverless AWS pipeline (Lambda, Glue, Athena) for Spotify playlist analytics
 
 ---
