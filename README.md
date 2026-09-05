@@ -68,10 +68,10 @@ I'm a **Data Engineer** with 2+ years of experience designing and building large
 
 <p>
   <a href="https://github.com/PushpakVootla21/Retail_Data_Engineering_Project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PushpakVootla21&repo=Retail_Data_Engineering_Project&theme=default" alt="Retail Data Engineering Project"/>
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=PushpakVootla21&repo=Retail_Data_Engineering_Project&theme=default" alt="Retail Data Engineering Project"/>
   </a>
   <a href="https://github.com/PushpakVootla21/Metadata-driven-data-migration-pipeline-using-ADF">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PushpakVootla21&repo=Metadata-driven-data-migration-pipeline-using-ADF&theme=default" alt="Metadata-driven Data Migration Pipeline"/>
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=PushpakVootla21&repo=Metadata-driven-data-migration-pipeline-using-ADF&theme=default" alt="Metadata-driven Data Migration Pipeline"/>
   </a>
 </p>
 
@@ -94,8 +94,8 @@ I'm a **Data Engineer** with 2+ years of experience designing and building large
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=PushpakVootla21&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PushpakVootla21&layout=compact&hide_border=true&theme=default" alt="Top Languages"/>
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=PushpakVootla21&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats"/>
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=PushpakVootla21&layout=compact&hide_border=true&theme=default" alt="Top Languages"/>
 </p>
 
 <p align="center">
