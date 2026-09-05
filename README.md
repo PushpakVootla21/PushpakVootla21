@@ -66,14 +66,8 @@ I'm a **Data Engineer** with 2+ years of experience designing and building large
 
 ### 🚀 Featured Projects
 
-<p>
-  <a href="https://github.com/PushpakVootla21/Retail_Data_Engineering_Project">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=PushpakVootla21&repo=Retail_Data_Engineering_Project&theme=default" alt="Retail Data Engineering Project"/>
-  </a>
-  <a href="https://github.com/PushpakVootla21/Metadata-driven-data-migration-pipeline-using-ADF">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=PushpakVootla21&repo=Metadata-driven-data-migration-pipeline-using-ADF&theme=default" alt="Metadata-driven Data Migration Pipeline"/>
-  </a>
-</p>
+- **[Retail Data Engineering Project](https://github.com/PushpakVootla21/Retail_Data_Engineering_Project)** — end-to-end data processing pipeline for retail data
+- **[Metadata-driven Data Migration Pipeline](https://github.com/PushpakVootla21/Metadata-driven-data-migration-pipeline-using-ADF)** — parameterized ADF pipeline for on-prem to Azure SQL migration
 
 ---
 
@@ -88,19 +82,6 @@ I'm a **Data Engineer** with 2+ years of experience designing and building large
 | **Neo4j** | [Neo4j Fundamentals](https://graphacademy.neo4j.com/u/13ffa2d7-de41-48fe-a8d1-4b2cdeab225a/neo4j-fundamentals/) · [Cypher Fundamentals](https://graphacademy.neo4j.com/u/13ffa2d7-de41-48fe-a8d1-4b2cdeab225a/cypher-fundamentals/) · [Graph Data Modelling](https://graphacademy.neo4j.com/u/13ffa2d7-de41-48fe-a8d1-4b2cdeab225a/modeling-fundamentals/) |
 | **Oracle** | [OCI 2023 Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=C8384B1F06A5FC1B8C83515896D01189CEFB7FC785317D5F1C86EB37A57DF2CA) · [Cloud Data Management Foundations](https://catalog-education.oracle.com/pls/certview/sharebadge?id=CC886834DBBFF0EFB0033B63F8813ADFFE6AD0EC59F3DAE8FA159C0F791EBBEE) · [OCI AI Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=5796615F8EB7C9A9B591C3778593E6AF4D91773B108F801235D315E33F8949D0) |
 | **Coursera / DeepLearning.AI** | [Data Engineering Essentials](https://www.credly.com/badges/2b4142f2-c5dd-48ae-8e92-0648c749f7e2) · [Generative AI for Everyone](https://www.coursera.org/account/accomplishments/verify/5K96SMHP8HLU) |
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=PushpakVootla21&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats"/>
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=PushpakVootla21&layout=compact&hide_border=true&theme=default" alt="Top Languages"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PushpakVootla21&hide_border=true&theme=default" alt="GitHub Streak"/>
-</p>
 
 ---
 
