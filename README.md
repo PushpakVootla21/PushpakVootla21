@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Pushpak Vootla 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Data+Engineer+%40+Ensono;Azure+%7C+Databricks+%7C+PySpark+%7C+Delta+Lake;Building+scalable+data+pipelines" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Associate+Data+Engineer+%40+Ensono;Azure+%7C+Databricks+%7C+PySpark+%7C+Delta+Lake;Building+scalable+data+pipelines" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -23,7 +23,7 @@
 
 ### 👋 About Me
 
-I'm a **Data Engineer** with 2+ years of experience designing and building large-scale data pipelines on Azure. I currently work at **Ensono**, where I build metadata-driven ingestion frameworks and Lakehouse architectures that turn raw operational data into trusted, analytics-ready datasets.
+I'm an **Associate Data Engineer** with 2+ years of experience designing and building large-scale data pipelines on Azure. I currently work at **Ensono Technologies LLP**, where I build metadata-driven ingestion frameworks and medallion lakehouse architectures that turn raw operational data into trusted, analytics-ready datasets.
 
 - 🔭 Currently building **Medallion Architecture pipelines** with Azure Databricks, PySpark & Delta Lake
 - 🌱 Currently deepening my skills in **Generative AI for data engineering**
@@ -53,17 +53,16 @@ I'm a **Data Engineer** with 2+ years of experience designing and building large
 
 ### 💼 Experience
 
-**Data Engineer · Ensono** &nbsp;|&nbsp; *Oct 2022 – Present*
+**Associate Data Engineer · Ensono Technologies LLP** &nbsp;|&nbsp; *Dec 2022 – Present*
 
-- Built a **metadata-driven ingestion framework** using Azure Data Factory to migrate operational data from on-prem SQL Server to Azure SQL Database, processing **1M+ records/day** across 8+ tables.
-- Designed **parameterized ADF pipelines** driven by JSON configs in ADLS Gen2, cutting manual intervention by **40%**.
-- Implemented **incremental load logic** using watermark columns, reducing data volume processed by **80%+**.
-- Applied data validation (row counts, checksums) to ensure **100% consistency** across source and target systems.
-- Engineered a **Medallion Architecture** in Azure Databricks (PySpark + Delta Lake) across bronze/silver/gold layers.
-- Leveraged Delta Lake **schema evolution, ACID compliance, and time travel** for complex transformations and lineage.
-- Tuned Spark jobs (partitioning, caching, cluster sizing), cutting runtime by **30%** and compute cost by **15%**.
-- Delivered curated Gold-layer datasets that improved **sales forecast accuracy by 25%** and cut **inventory overhead by 15%**.
-- Automated version-controlled deployments of Databricks notebooks via **Azure DevOps CI/CD**.
+- Develop and enhance a **Bronze-to-Silver-to-Gold medallion lakehouse** using Azure Databricks, PySpark and Delta Lake for a mid-sized US e-commerce platform.
+- Build **metadata-driven Azure Data Factory pipelines** that ingest data from SQL Server, REST APIs and SFTP into the ADLS Gen2 Bronze layer.
+- Implement **JSON configuration and control-table patterns** for dynamic pipeline selection, parameterised execution and reusable source onboarding.
+- Apply **watermark-based incremental loading** with rerun-safe controls so eligible changes are processed and state updates occur only after successful execution.
+- Implement **PySpark transformation and validation logic** for trusted Silver and Gold datasets, with Delta Lake processing and Unity Catalog registration.
+- Validate runtime parameters, source paths, files, schemas and row counts before data proceeds to downstream processing.
+- Integrate structured **Databricks notebook results and framework logging** with Azure Data Factory so orchestration status reflects processing outcomes.
+- Investigate pipeline issues, implement fixes, verify downstream data readiness and document pipeline behaviour for technical handoff.
 
 ---
 
