@@ -80,7 +80,6 @@ I'm a **Data Engineer** with 2+ years of experience designing and building large
 | **Google Cloud** | [Cloud Digital Leader](https://www.credential.net/60e2e6ed-27af-44b2-85e9-5adc66dc3066) |
 | **Databricks** | [Generative AI Fundamentals](https://credentials.databricks.com/988285f5-5596-463d-933f-5628d602a900) · [Lakehouse Fundamentals](https://credentials.databricks.com/84038ff1-64a5-4fc9-b6a4-2391c851bddc) |
 | **Neo4j** | [Neo4j Fundamentals](https://graphacademy.neo4j.com/u/13ffa2d7-de41-48fe-a8d1-4b2cdeab225a/neo4j-fundamentals/) · [Cypher Fundamentals](https://graphacademy.neo4j.com/u/13ffa2d7-de41-48fe-a8d1-4b2cdeab225a/cypher-fundamentals/) · [Graph Data Modelling](https://graphacademy.neo4j.com/u/13ffa2d7-de41-48fe-a8d1-4b2cdeab225a/modeling-fundamentals/) |
-| **Oracle** | [OCI 2023 Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=C8384B1F06A5FC1B8C83515896D01189CEFB7FC785317D5F1C86EB37A57DF2CA) · [Cloud Data Management Foundations](https://catalog-education.oracle.com/pls/certview/sharebadge?id=CC886834DBBFF0EFB0033B63F8813ADFFE6AD0EC59F3DAE8FA159C0F791EBBEE) · [OCI AI Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=5796615F8EB7C9A9B591C3778593E6AF4D91773B108F801235D315E33F8949D0) |
 | **Coursera / DeepLearning.AI** | [Data Engineering Essentials](https://www.credly.com/badges/2b4142f2-c5dd-48ae-8e92-0648c749f7e2) · [Generative AI for Everyone](https://www.coursera.org/account/accomplishments/verify/5K96SMHP8HLU) |
 
 ---
