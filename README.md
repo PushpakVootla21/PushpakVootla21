@@ -41,6 +41,7 @@ I'm a **Data Engineer** with 2+ years of experience designing and building large
   <img src="https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white"/>
   <img src="https://img.shields.io/badge/Delta_Lake-00ADD8?style=flat-square&logo=delta&logoColor=white"/>
   <img src="https://img.shields.io/badge/Azure_Data_Factory-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Microsoft_Fabric-1a5fb4?style=flat-square&logo=microsoftazure&logoColor=white"/>
   <img src="https://img.shields.io/badge/Azure_Synapse-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/>
   <img src="https://img.shields.io/badge/Azure_SQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
@@ -71,6 +72,8 @@ I'm a **Data Engineer** with 2+ years of experience designing and building large
 - **[Quarterly Policy Data Delivery Platform](https://pushpakvootla.cloud/projects/quarterly-policy-data-delivery-platform)** — metadata-driven ADF orchestration with Databricks processing into validated Delta tables
 - **[Retail Data Engineering Project](https://github.com/PushpakVootla21/Retail_Data_Engineering_Project)** — end-to-end data processing pipeline for retail data
 - **[Metadata-driven Data Migration Pipeline](https://github.com/PushpakVootla21/Metadata-driven-data-migration-pipeline-using-ADF)** — parameterized ADF pipeline for on-prem to Azure SQL migration
+- **[Validation-First Fabric Lakehouse Ingestion](https://github.com/PushpakVootla21/fabric-case-studies)** — Microsoft Fabric pipeline with schema validation, quarantine handling, and Lakehouse upsert
+- **[Spotify ETL Project](https://github.com/PushpakVootla21/spotify-etl-project)** — serverless AWS pipeline (Lambda, Glue, Athena) for Spotify playlist analytics
 
 ---
 
