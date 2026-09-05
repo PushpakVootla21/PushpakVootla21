@@ -5,6 +5,9 @@
 </p>
 
 <p align="center">
+  <a href="https://pushpakvootla.cloud/">
+    <img src="https://img.shields.io/badge/Portfolio-2E9EF7?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
   <a href="https://www.linkedin.com/in/pushpak-vootla-a214b1169/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
@@ -66,6 +69,7 @@ I'm a **Data Engineer** with 2+ years of experience designing and building large
 
 ### 🚀 Featured Projects
 
+- **[Data Engineering Portfolio](https://pushpakvootla.cloud/)** — recruiter-facing site with 5 Azure case studies across ADF, Databricks, Microsoft Fabric, PySpark & Delta Lake
 - **[Retail Data Engineering Project](https://github.com/PushpakVootla21/Retail_Data_Engineering_Project)** — end-to-end data processing pipeline for retail data
 - **[Metadata-driven Data Migration Pipeline](https://github.com/PushpakVootla21/Metadata-driven-data-migration-pipeline-using-ADF)** — parameterized ADF pipeline for on-prem to Azure SQL migration
 
