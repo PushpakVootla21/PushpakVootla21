@@ -26,7 +26,7 @@
 I'm a **Data Engineer** with 2+ years of experience designing and building large-scale data pipelines on Azure. I currently work at **Ensono**, where I build metadata-driven ingestion frameworks and Lakehouse architectures that turn raw operational data into trusted, analytics-ready datasets.
 
 - 🔭 Currently building **Medallion Architecture pipelines** with Azure Databricks, PySpark & Delta Lake
-- 🌱 Currently deepening my skills in **Generative AI for data engineering** and **graph databases (Neo4j)**
+- 🌱 Currently deepening my skills in **Generative AI for data engineering**
 - 💬 Ask me about **Azure Data Factory, Spark optimization, or data pipeline design**
 - 📫 Reach me at **vootlapushpakwork2001@gmail.com**
 
@@ -45,7 +45,6 @@ I'm a **Data Engineer** with 2+ years of experience designing and building large
   <img src="https://img.shields.io/badge/Azure_SQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Neo4j-4581C3?style=flat-square&logo=neo4j&logoColor=white"/>
   <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white"/>
 </p>
 
