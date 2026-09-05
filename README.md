@@ -23,7 +23,7 @@
 
 ### 👋 About Me
 
-I'm an **Associate Data Engineer** with 2+ years of experience designing and building large-scale data pipelines on Azure. I currently work at **Ensono Technologies LLP**, where I build metadata-driven ingestion frameworks and medallion lakehouse architectures that turn raw operational data into trusted, analytics-ready datasets.
+I'm an **Associate Data Engineer** with 3+ years of experience designing and building large-scale data pipelines on Azure. I currently work at **Ensono Technologies LLP**, where I build metadata-driven ingestion frameworks and medallion lakehouse architectures that turn raw operational data into trusted, analytics-ready datasets.
 
 - 🔭 Currently building **Medallion Architecture pipelines** with Azure Databricks, PySpark & Delta Lake
 - 🌱 Currently deepening my skills in **Generative AI for data engineering**
